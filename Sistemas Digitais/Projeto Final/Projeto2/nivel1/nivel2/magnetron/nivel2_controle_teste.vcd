@@ -1,0 +1,97 @@
+$date
+	Thu May 12 22:57:02 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module nivel2_controle_teste $end
+$var wire 1 ! Q_TB $end
+$var reg 1 " clearn_TB $end
+$var reg 1 # door_closed_TB $end
+$var reg 1 $ startn_TB $end
+$var reg 1 % stopn_TB $end
+$var reg 1 & timer_done_TB $end
+$scope module DUT $end
+$var wire 1 " clearn $end
+$var wire 1 # door_closed $end
+$var wire 1 $ startn $end
+$var wire 1 % stopn $end
+$var wire 1 & timer_done $end
+$var wire 1 ' saida_set $end
+$var wire 1 ( saida_reset $end
+$var wire 1 ! Q2 $end
+$scope module control_mag $end
+$var wire 1 " clearn $end
+$var wire 1 # door_closed $end
+$var wire 1 $ startn $end
+$var wire 1 % stopn $end
+$var wire 1 & timer_done $end
+$var reg 1 ( reset $end
+$var reg 1 ' set $end
+$upscope $end
+$scope module latch $end
+$var wire 1 ( reset $end
+$var wire 1 ' set $end
+$var reg 1 ! Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1(
+x'
+0&
+0%
+1$
+0#
+0"
+x!
+$end
+#5
+1!
+0(
+1'
+1#
+#10
+0!
+1(
+1%
+#15
+1!
+0(
+0%
+#20
+0!
+1(
+1&
+#25
+1!
+0(
+0&
+#30
+0!
+1(
+1&
+1"
+#35
+1!
+0(
+0&
+0"
+#40
+0!
+1(
+1&
+1"
+1%
+#45
+0$
+#50
+0&
+0#
+0"
+0%

@@ -1,0 +1,2 @@
+MUX 8-1 3/3
+Comparador 5.4/7
